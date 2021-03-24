@@ -11,13 +11,13 @@ function Card() {
                     <ul className="cards__items">
                         <CardItem
                             src='images/img-9.jpg'
-                            text='Explore the hidden waterfall deep inside the Amazon Jungle'
+                            text='Khám phá thác nước ẩn sâu bên trong Rừng rậm Amazon'
                             label='Adventure'
                             path='/services'
                         />
                         <CardItem
                             src='images/img-2.jpg'
-                            text='Travel through the Islands of Bali in a Private Cruise'
+                            text='Du ngoạn qua Quần đảo Bali bằng Du thuyền riêng'
                             label='Luxury'
                             path='/services'
                         />
@@ -25,19 +25,19 @@ function Card() {
                     <ul className='cards__items'>
                         <CardItem
                             src='images/img-3.jpg'
-                            text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+                            text='Đi thuyền trên Đại Tây Dương thăm Vùng biển chưa được khám phá'
                             label='Mystery'
                             path='/services'
                         />
                         <CardItem
                             src='images/img-4.jpg'
-                            text='Experience Football on Top of the Himilayan Mountains'
+                            text='Trải nghiệm Bóng đá trên đỉnh Dãy núi Himalaya'
                             label='Adventure'
                             path='/products'
                         />
                         <CardItem
                             src='images/img-8.jpg'
-                            text='Ride through the Sahara Desert on a guided camel tour'
+                            text='Đi qua Sa mạc Sahara trong chuyến tham quan bằng lạc đà cùng hướng dẫn viên'
                             label='Adrenaline'
                             path='/sign-up'
                         />
